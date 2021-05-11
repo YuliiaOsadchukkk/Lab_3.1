@@ -1,0 +1,8 @@
+﻿  Fraction.cpp
+F:\ООП\Тема 3\Lab_3.1\Lab_3.1\Lab_3.1\Fraction.cpp(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Pair.cpp
+F:\ООП\Тема 3\Lab_3.1\Lab_3.1\Lab_3.1\Pair.cpp(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Source.cpp
+F:\ООП\Тема 3\Lab_3.1\Lab_3.1\Lab_3.1\Source.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  Lab_3.1.vcxproj -> F:\ООП\Тема 3\Lab_3.1\Lab_3.1\Debug\Lab_3.1.exe

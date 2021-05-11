@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_3.1-_-.cpp
+F:\ООП\Тема 3\Lab_3.1\Lab_3.1\UnitTest_3.1-_-\UnitTest_3.1-_-.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+     Creating library F:\ООП\Тема 3\Lab_3.1\Lab_3.1\Debug\UnitTest_3.1-_-.lib and object F:\ООП\Тема 3\Lab_3.1\Lab_3.1\Debug\UnitTest_3.1-_-.exp
+  UnitTest_3.1-_-.vcxproj -> F:\ООП\Тема 3\Lab_3.1\Lab_3.1\Debug\UnitTest_3.1-_-.dll
